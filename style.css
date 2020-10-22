@@ -8,6 +8,27 @@ body {
     margin: 0 auto;
     padding-top: 50px; }
   
+  .message{
+    border-radius: 5px;
+    background-color: #fff;
+    border: 2px solid #FFD78A;
+  }
+
+  button:hover{
+      background-color: #FFD78A;
+      color: #fff;
+  }
+
+  li:hover{
+      color: #fff;
+  }
+
+  .add{
+    background-color: #fff;
+    border: 2px solid #FFD78A;
+    border-radius: 5px;
+  }
+  
   .important {
     font-weight: bold;
     color: #A40E11; }
